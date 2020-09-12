@@ -1,5 +1,4 @@
 # Eureka
 
-Eureka is an initiative to spread innovation culture in 
+Eureka is an initiative to spread innovation spirit of the next generation of inventors.
 
-//to be completed after project is done

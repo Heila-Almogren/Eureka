@@ -1,0 +1,19 @@
+.scrollframe{
+    overflow-x: scroll;
+    width:900px; 
+    
+    border: solid black; 
+    height:200px; 
+    margin: auto;
+    
+    
+    overflow-y: scroll;
+    
+}
+.scrollitem {
+    border: solid red; 
+    height: 150px; 
+    width: 150px;
+    display:inline-block;
+    margin: 10px;
+}
